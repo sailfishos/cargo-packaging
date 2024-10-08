@@ -1,0 +1,3 @@
+[submodule "cargo-packaging"]
+	path = cargo-packaging
+	url = git@github.com:sailfishos-mirror/cargo-packaging.git
